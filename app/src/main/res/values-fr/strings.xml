@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news_title">Actualités</string>
+    <string name="error_network">Erreur réseau, veuillez réessayer plus tard</string>
+    <string name="error_server">Erreur du serveur ! Veuillez réessayer</string>
+    <string name="retry">Réessayer</string>
+    <string name="no_news_data">Aucune donnée d\'actualité</string>
+    <string name="back">Retour</string>
+    <string name="description">Description</string>
+    <string name="content">Contenu</string>
+    <string name="publish_at">Publier</string>
+    <string name="author">Auteur</string>
+    <string name="details">Détails</string>
+</resources>
